@@ -2,6 +2,7 @@
 outputs/
 **/results/
 **/datasets/*/*.csv
+!app/datasets/jira/doc.csv
 *venv*
 .DS_Store
 *.swp
