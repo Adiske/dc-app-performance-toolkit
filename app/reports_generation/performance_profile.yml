@@ -3,13 +3,12 @@ column_name: "90% Line"
 runs:
   # fullPath should contain a full path to the directory with run results. E.g. /home/$USER/dc-app-performance-toolkit/jira/results/2019-08-06_17-41-08
   - runName: "without app"
-    fullPath: 'C:\Users\abialoskorski\dc-app-performance-toolkit\app\results\jira\2021-07-20_07-30-22'
+    fullPath: ""
   - runName: "with app"
-    fullPath: 'C:\Users\abialoskorski\dc-app-performance-toolkit\app\results\jira\2021-07-20_09-14-00'
+    fullPath: ""
 
 # Chart generation config
 index_col: "Action"
 title: "DCAPT Performance Testing"
 image_height_px: 1000
 image_width_px: 1600
-
